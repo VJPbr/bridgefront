@@ -10,12 +10,12 @@ Para realização do projeto foi utilizado o react, junto com as ferramentas axi
 
 ## Execução do projeto
 
-**Obs: Para utilização da aplicação é necessário ter o servidor rodando, encontra-se em: https://github.com/**
+**Obs: Para utilização da aplicação é necessário ter o servidor rodando, encontra-se em: https://github.com/VJPbr/bridgeback**
 
 ### Clone do projeto:
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/VJPbr/bridgefront
 ```
 
 ### Instalar as dependências:
